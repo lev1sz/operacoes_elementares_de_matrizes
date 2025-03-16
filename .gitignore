@@ -1,0 +1,12 @@
+bin/
+obj/
+
+*.sln
+*.csproj
+*.user
+*.suo
+*.vs/
+
+packages/
+
+Thumbs.db

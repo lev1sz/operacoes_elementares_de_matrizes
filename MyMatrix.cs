@@ -22,13 +22,15 @@ class MyMatrix
     }
     public void PrintMatrix()
     {
+        
         for (int i = 0;i < this.rows; i++)
         {
+            Console.Write("[");
             for (int j = 0;j < this.cols; j++)
             {
-                Console.Write($"{matrix[i, j]} ");
+                Console.Write($" {matrix[i, j]} ");
             }
-            Console.WriteLine();
+            Console.WriteLine("]");
         }
     }
     public void Permute(int i, int j)

@@ -12,3 +12,4 @@ C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\obj\Debug\net9.
 C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\obj\Debug\net9.0\operacoes_elementares_de_matrizes.pdb
 C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\obj\Debug\net9.0\operacoes_elementares_de_matrizes.genruntimeconfig.cache
 C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\obj\Debug\net9.0\ref\operacoes_elementares_de_matrizes.dll
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\obj\Debug\net9.0\operacoes_elementares_de_matrizes.sourcelink.json

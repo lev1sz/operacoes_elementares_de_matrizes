@@ -38,7 +38,9 @@ class Program{
         MyMatrix matriz = new MyMatrix(rows, cols);
         Console.WriteLine("Insira os valores na matriz.");
         matriz.InsertNumbers();
-        int i, j, alpha;
+        matriz.PrintMatrix();
+        int i, j;
+        float alpha;
         while(true)
         {
             Console.WriteLine("Escolha uma operacao:");
@@ -63,7 +65,7 @@ class Program{
                     Console.Write("Insira a linha a ser multiplicada: ");
                     i = int.Parse(Console.ReadLine());
                     Console.Write("Insira o multiplicador: ");
-                    alpha = int.Parse(Console.ReadLine());
+                    alpha = float.Parse(Console.ReadLine());
                     matriz.Multiply(i, alpha);
                     matriz.PrintMatrix();
                     break;

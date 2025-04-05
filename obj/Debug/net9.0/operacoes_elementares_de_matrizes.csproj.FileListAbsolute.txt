@@ -1,0 +1,15 @@
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\obj\Debug\net9.0\operacoes_elementares_de_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\obj\Debug\net9.0\operacoes_elementares_de_matrizes.AssemblyInfoInputs.cache
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\obj\Debug\net9.0\operacoes_elementares_de_matrizes.AssemblyInfo.cs
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\obj\Debug\net9.0\operacoes_elementares_de_matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\bin\Debug\net9.0\operacoes_elementares_de_matrizes.exe
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\bin\Debug\net9.0\operacoes_elementares_de_matrizes.deps.json
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\bin\Debug\net9.0\operacoes_elementares_de_matrizes.runtimeconfig.json
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\bin\Debug\net9.0\operacoes_elementares_de_matrizes.dll
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\bin\Debug\net9.0\operacoes_elementares_de_matrizes.pdb
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\obj\Debug\net9.0\operacoes_elementares_de_matrizes.dll
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\obj\Debug\net9.0\refint\operacoes_elementares_de_matrizes.dll
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\obj\Debug\net9.0\operacoes_elementares_de_matrizes.pdb
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\obj\Debug\net9.0\operacoes_elementares_de_matrizes.genruntimeconfig.cache
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\obj\Debug\net9.0\ref\operacoes_elementares_de_matrizes.dll
+C:\Users\Levi\Documents\GitHub\operacoes_elementares_de_matrizes\obj\Debug\net9.0\operacoes_elementares_de_matrizes.sourcelink.json

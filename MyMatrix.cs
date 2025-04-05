@@ -2,12 +2,12 @@ using System;
 class MyMatrix
 {
     private int rows, cols;
-    private float[,] matrix;
+    private int[,] matrix;
     public MyMatrix(int rows, int cols)
     {
         this.rows = rows;
         this.cols = cols;
-        matrix = new float[rows, cols];
+        matrix = new int[rows, cols];
     }
     public void InsertNumbers()
     {
@@ -16,7 +16,7 @@ class MyMatrix
             for (int j = 0;j < this.cols; j++)
             {
                 Console.Write($"Insira um numero na celula {i+1}{j+1}: ");
-                matrix[i, j] = float.Parse(Console.ReadLine());
+                matrix[i, j] = int.Parse(Console.ReadLine());
             }
         }
     }
@@ -28,14 +28,14 @@ class MyMatrix
             Console.Write("[");
             for (int j = 0;j < this.cols; j++)
             {
-                Console.Write($"{matrix[i, j],-15:F1}");
+                Console.Write($" {matrix[i, j]} ");
             }
             Console.WriteLine("]");
         }
     }
     public void Permute(int i, int j)
     {
-        float[] aux = new float[cols];
+        int[] aux = new int[cols];
         i--;
         j--;
         for(int k = 0; k < cols; k++)
@@ -52,7 +52,7 @@ class MyMatrix
         }
 
     }
-    public void Multiply(int i, float alpha)
+    public void Multiply(int i, int alpha)
     {
         i--;
         for(int j = 0; j < cols; j++)
@@ -60,7 +60,7 @@ class MyMatrix
             matrix[i, j] *= alpha;
         }
     }
-    public void MultiplyAndSum(int i, int j, float alpha)
+    public void MultiplyAndSum(int i, int j, int alpha)
     {
         i--;
         j--;
